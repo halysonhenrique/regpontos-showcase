@@ -30,6 +30,25 @@ um painel web: escalas, pendências, banco de horas, justificativas e relatório
 
 ---
 
+## Telas
+
+### Painel do administrador
+<p align="center">
+  <img src="imagens/painel-do-dia.png" width="900"><br>
+  <sub>Painel do dia: quem já bateu, atrasos, pendências que bloqueiam o fechamento, horas extras e adicional noturno do mês</sub>
+</p>
+
+### Kiosk do funcionário (celular na parede)
+<table>
+  <tr>
+    <td align="center"><img src="imagens/kiosk-matricula.png" width="230"><br><sub>1. Digita a matrícula</sub></td>
+    <td align="center"><img src="imagens/kiosk-digital.png" width="230"><br><sub>2. Digital com orientação quando a leitura falha</sub></td>
+    <td align="center"><img src="imagens/kiosk-pin.png" width="230"><br><sub>3. PIN de contingência (entra para conferência)</sub></td>
+  </tr>
+</table>
+
+---
+
 ## Arquitetura
 
 ```mermaid
